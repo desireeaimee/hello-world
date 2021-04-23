@@ -1,2 +1,3 @@
 # hello-world
 First steps - once again
+Ok. The changes i made at 'main' are not seen here. It might not be a good thing not to follow the instructions... but i suppose it will also be possible to delete the whole project... (and start new)...
