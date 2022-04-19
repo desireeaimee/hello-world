@@ -1,8 +1,4 @@
 # hello-world
-First steps - once again
-=======
-Well, right now i am a bit confused. Seems to me i should have gone to the BRANCH (readme-edits), find README.md there, and start changing THAT file???
-=======
-Ok. The changes i made at 'main' are not seen here. It might not be a good thing not to follow the instructions... but i suppose it will also be possible to delete the whole project... (and start new)...
-...
-Well, one might say that this is the third change. This time done from the 'active' branch - it might be identical with "my" branch or not... time will show...
+branch readme-edits ... war das nicht in einem Tutorial? Aber in welchem?
+
+- Jedenfalls geht es ums Lernen!
